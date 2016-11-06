@@ -5,3 +5,4 @@ I will try add of first,then commit
 Git tracks changes.
 Git tracks changes.
 Git tracks changes.
+add Git tracks changes.
