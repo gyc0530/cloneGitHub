@@ -7,3 +7,4 @@ Git tracks changes.
 Git tracks changes.
 add Git tracks changes and anthor
 add new commit
+now Ineed to fix a bug,so I will save my work!
