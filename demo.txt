@@ -7,4 +7,5 @@ Git tracks changes.
 Git tracks changes.
 add Git tracks changes and fixed
 add new commit
+now Ineed to fix a bug,so I will save my work!
 
